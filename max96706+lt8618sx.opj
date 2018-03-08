@@ -1,0 +1,46 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\max96706+lt8618sx.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\max96706+lt8618sx.dsn")
+      (Path "Design Resources" ".\max96706+lt8618sx.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\max96706+lt8618sx.dsn" "SCHEMATIC1"
+         "04 -Deserializer"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 150"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1611 50 591")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\CAMERA\CAMERA_HW\MAX96706+LT8618SX.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "05 -Mcu+Usb"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1636 75 616")
+        (Scroll "0 20")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\CAMERA\CAMERA_HW\MAX96706+LT8618SX.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "04 -Deserializer"))))

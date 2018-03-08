@@ -1,0 +1,56 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\vae1701b01 2018 3 9.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "8")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File "55.asc")
+    (OTHER_Netlist_File2 "VAE1701B01 2018 3 9.CMP")
+    (OTHER_View_Output "FALSE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "orpads2k.dll")
+    (OTHER_PCB_Footprint "{PCB Footprint},{Value}")
+    (OTHER_Switch0 "FALSE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE"))
+  (Folder "Outputs"
+    (File ".\55.asc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\vae1701b01 2018 3 9.dsn")
+      (Path "Design Resources" ".\vae1701b01 2018 3 9.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\vae1701b01 2018 3 9.dsn" "SCHEMATIC1"
+         "02 -Power"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 392"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1611 50 591")
+        (Scroll "790 1040")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTS\CAMERA\CAMERA_HW\VAE1701B01\HARDWARE_STRUCRE\02_HARDWARE_DESIGN\VAE1701B01 201712\VAE1701B01 2018 3 9.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02 -Power")))
+  (ISPCBBASICLICENSE "false")
+  (PartMRUSelector))
