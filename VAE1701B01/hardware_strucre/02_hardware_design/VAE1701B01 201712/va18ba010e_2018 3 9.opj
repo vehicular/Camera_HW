@@ -55,11 +55,13 @@
       (Path "Design Resources" ".\va18ba010e_2018 3 9.dsn")
       (Path "Design Resources" ".\va18ba010e_2018 3 9.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\va18ba010e_2018 3 9.dsn"))
+      (Select "Design Resources" ".\va18ba010e_2018 3 9.dsn" "SCHEMATIC1"
+         "02 -Power"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -30 0 200 0 392"))
       (Tab 0)))
-  (ISPCBBASICLICENSE "false"))
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "Administrator"))

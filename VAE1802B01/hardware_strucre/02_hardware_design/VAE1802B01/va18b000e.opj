@@ -22,9 +22,30 @@
     (OTHER_Switch3 "FALSE")
     (OTHER_Switch4 "FALSE")
     (OTHER_Switch5 "FALSE")
-    (OTHER_Switch6 "FALSE"))
+    (OTHER_Switch6 "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (IREFReportFile
+       "D:\PROJECTS\CAMERA\CAMERA_HW\VAE1802B01\HARDWARE_STRUCRE\02_HARDWARE_DESIGN\VAE1802B01\VA18B000E.csv")
+    (IREFViewOutput "0"))
   (Folder "Outputs"
     (File ".\sss.asc"
+      (Type "Report"))
+    (File ".\va18b000e.csv"
       (Type "Report")))
   (Folder "Referenced Projects")
   (GlobalState
@@ -33,47 +54,13 @@
       (Path "Design Resources" ".\va18b000e.dsn")
       (Path "Design Resources" ".\va18b000e.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\va18b000e.dsn" "SCHEMATIC1"
-         "04 -Serializer"))
+      (Select "Design Resources" ".\va18b000e.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 392"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1728 125 533")
-        (Scroll "0 653")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\PROJECTS\CAMERA\CAMERA_HW\VAE1702B01\HARDWARE_STRUCRE\02_HARDWARE_DESIGN\VAE1702B01\VA18B000E.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "02 -Power"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 1678 75 483")
-        (Scroll "0 1359")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path
-         "D:\PROJECTS\CAMERA\CAMERA_HW\VAE1702B01\HARDWARE_STRUCRE\02_HARDWARE_DESIGN\VAE1702B01\VA18B000E.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "03 -ISP & Sensor"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1578 50 591")
-        (Scroll "0 680")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "D:\PROJECTS\CAMERA\CAMERA_HW\VAE1702B01\HARDWARE_STRUCRE\02_HARDWARE_DESIGN\VAE1702B01\VA18B000E.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "04 -Serializer")))
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 392"))
+      (Tab 0)))
   (MPSSessionName "Administrator")
   (PartMRUSelector)
   (ISPCBBASICLICENSE "false"))
